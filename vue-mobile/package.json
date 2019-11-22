@@ -16,7 +16,7 @@
     "less": "^3.9.0",
     "mockjs": "^1.0.1-beta3",
     "postcss-pxtorem": "^4.0.1",
-    "vant": "^1.5.9",
+    "vant": "^2.2.14",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vue2-org-tree": "^1.1.1",
